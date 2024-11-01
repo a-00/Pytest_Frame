@@ -1,4 +1,10 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+<<<<<<< HEAD
 "","0","test_icon","case.XPAAS","Fri Nov 01 16:23:37 CST 2024","broken","Fri Nov 01 16:23:37 CST 2024","","test_login","",""
 "","8092","人员实力查看接口","case.XPAAS","Fri Nov 01 16:23:29 CST 2024","broken","Fri Nov 01 16:23:37 CST 2024","","test_login","",""
 "","30","组织机构list接口","case.RYXXGL","Fri Nov 01 16:23:29 CST 2024","failed","Fri Nov 01 16:23:29 CST 2024","Test_ZZJG","test_rysl","",""
+=======
+"","34","组织机构list接口","case.RYXXGL","Thu Sep 05 11:03:22 CST 2024","passed","Thu Sep 05 11:03:22 CST 2024","Test_ZZJG","test_rysl","",""
+"","8016","人员实力查看接口","case.XPAAS","Thu Sep 05 11:03:22 CST 2024","broken","Thu Sep 05 11:03:30 CST 2024","","test_login","",""
+"","0","test_icon","case.XPAAS","Thu Sep 05 11:03:30 CST 2024","broken","Thu Sep 05 11:03:30 CST 2024","","test_login","",""
+>>>>>>> c14631ced9774dfac664389143f6fb8a5611f9ad

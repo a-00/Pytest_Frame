@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"total":2,"items":[{"uid":"1ddc57ab1c75cc488af18ae959cb9759","name":"Z05","statistic":{"failed":1,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":2}}]}
+=======
+{"total":2,"items":[{"uid":"1ddc57ab1c75cc488af18ae959cb9759","name":"Z05","statistic":{"failed":0,"broken":1,"skipped":0,"passed":1,"unknown":0,"total":2}}]}
+>>>>>>> c14631ced9774dfac664389143f6fb8a5611f9ad

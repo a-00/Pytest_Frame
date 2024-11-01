@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8047","人员实力查看接口","case.XPAAS","Fri Nov 01 16:13:55 CST 2024","broken","Fri Nov 01 16:14:03 CST 2024","","test_login","",""
+"","20","组织机构list接口","case.RYXXGL","Fri Nov 01 16:13:55 CST 2024","failed","Fri Nov 01 16:13:55 CST 2024","Test_ZZJG","test_rysl","",""
+"","0","test_icon","case.XPAAS","Fri Nov 01 16:14:03 CST 2024","broken","Fri Nov 01 16:14:03 CST 2024","","test_login","",""

@@ -1,7 +1,7 @@
 # Pytest_Frame
 Pytest+Allure+Selenium基础框架
-
-- 项目名称
+```
+--项目名称
   - conf：配置项
   - common：公共方法
   - data：数据
@@ -15,3 +15,4 @@ Pytest+Allure+Selenium基础框架
   - pytest.ini：pytest配置文件
   - requirements.txt:依赖文件
   - run.py：主程序入口
+```
